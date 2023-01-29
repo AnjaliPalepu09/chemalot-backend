@@ -1,0 +1,76 @@
+[
+{
+
+    "PubChem_CID": 15291,
+    "CAS_ID": "1570-45-1",
+    "Category":"Category1",
+    "Chemical_Name":"Ethyl isonicotinate",
+    "Molecular_Weight": "151.16 g/mol",
+    "Image_2D": "./images/1570-45-2_2D_Structure.png",
+    "Safety":{
+
+    },
+    "Properties":{},
+    "Synonyms":["ETHYL ISONICOTINATE",
+    "1570-45-2",
+    "ethyl pyridine-4-carboxylate",
+    "4-Picolinic acid ethyl ester",
+    "4-Pyridinecarboxylic acid, ethyl ester"]
+},
+{
+
+    "PubChem_CID": 15292,
+    "CAS_ID": "1570-45-2",
+    "Category":"Category1",
+    "Chemical_Name":"Ethyl isonicotinate",
+    "Molecular_Weight": "151.16 g/mol",
+    "Image_2D": "./images/1570-45-2_2D_Structure.png",
+    "Safety":{
+
+    },
+    "Properties":{},
+    "Synonyms":["ETHYL ISONICOTINATE",
+    "1570-45-2",
+    "ethyl pyridine-4-carboxylate",
+    "4-Picolinic acid ethyl ester",
+    "4-Pyridinecarboxylic acid, ethyl ester"]
+},
+{
+
+    "PubChem_CID": 15293,
+    "CAS_ID": "1570-45-3",
+    "Category":"Category1",
+    "Chemical_Name":"Ethyl isonicotinate",
+    "Molecular_Weight": "151.16 g/mol",
+    "Image_2D": "./images/1570-45-2_2D_Structure.png",
+    "Safety":{
+
+    },
+    "Properties":{},
+    "Synonyms":["ETHYL ISONICOTINATE",
+    "1570-45-2",
+    "ethyl pyridine-4-carboxylate",
+    "4-Picolinic acid ethyl ester",
+    "4-Pyridinecarboxylic acid, ethyl ester"]
+},
+{
+
+    "PubChem_CID": 15294,
+    "CAS_ID": "1570-45-4",
+    "Category":"Category2",
+    "Chemical_Name":"Ethyl isonicotinate",
+    "Molecular_Weight": "151.16 g/mol",
+    "Image_2D": "./images/1570-45-2_2D_Structure.png",
+    "Safety":{
+
+    },
+    "Properties":{},
+    "Synonyms":["ETHYL ISONICOTINATE",
+    "1570-45-2",
+    "ethyl pyridine-4-carboxylate",
+    "4-Picolinic acid ethyl ester",
+    "4-Pyridinecarboxylic acid, ethyl ester"]
+}
+
+
+]
