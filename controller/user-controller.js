@@ -1,6 +1,7 @@
 const users = require('../users.json')
 const uuid = require('uuid')
 const CustomError = require('../modules/custom-error')
+const usersProvider = require('../mongoDB/users')
 
 const validateUserLogin = (req, res, next) =>{
     const {userName, password} = req.body;
@@ -31,8 +32,9 @@ const registerUser = (req, res,next) => {
         phoneNumber, 
         shippingAdress
     }
-    users.push(userObj);
-    res.json({"message":"User registered successfullly"})
+    console.log("before user call")
+    const msg = usersProvider.createUser(userObj)
+    return res.json({message: msg})
 
 
 };
